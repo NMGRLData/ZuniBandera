@@ -1,0 +1,18 @@
+{
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "deflections": {
+        "AX": 120.0, 
+        "CDD": 130.0, 
+        "H1": 0.0, 
+        "H2": 200.0, 
+        "L1": 200.0, 
+        "L2": 420.0
+    }, 
+    "gains": {}, 
+    "spectrometer": {
+        "extraction_lens": 34.16, 
+        "ysymmetry": -11.36, 
+        "zfocus": 31.11, 
+        "zsymmetry": 62.25
+    }
+}

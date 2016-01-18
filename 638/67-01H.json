@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "37.28 mg", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": 120.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 130.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 420.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63867", 
+    "increment": 7, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "C", 
+    "irradiation_position": 5, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "Groundmass Concentrate", 
+    "measurement": "", 
+    "project": "ZuniBandera", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "ZuniBandera", 
+    "sample": "NMZB-48", 
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
+    "timestamp": "2015-11-04T14:31:00", 
+    "username": "root", 
+    "uuid": "8a6d617d-5d68-4fdd-b6de-489c127d9e18"
+}

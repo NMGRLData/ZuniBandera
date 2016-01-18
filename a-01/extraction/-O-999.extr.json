@@ -1,0 +1,17 @@
+{
+    "beam_diameter": "0.0", 
+    "cleanup_duration": 0.0, 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "extract_device": "No Extract Device", 
+    "extract_duration": 0.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "pattern": "", 
+    "positions": [], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "", 
+    "response": "", 
+    "tray": "", 
+    "weight": 0.0
+}
