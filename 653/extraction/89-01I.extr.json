@@ -1,0 +1,40 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 120.0, 
+    "commit": "036963f9e504c9d3c0ad9d6cfd18210e9b360cc1", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 7.0, 
+    "pattern": "9and10hole_square.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "8", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "9", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "10", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "2zGwTgAAAAAA6Lc9AAD6RISABkAAAPpEDGSDQAAA+kR2nMNAAAD6ROHkAUEAAPpESfUhQQAA+kT0DUJBAAD6RC0zYkEAAPpEPiSBQQAA+kTBMJFBAAD6RFA4oUEAAPpE9FSxQQAA+kTkV8FBAAD6RHZW0UEAAPpEr1fhQQAA+kRmW/FBAAD6RN65AEIAAPpED8AIQgAA+kSSvxBCAAD6RPvCGEIAAPpERcggQgAA+kSnxyhCAAD6RAfJMEIAAPpEaso4QgAA+kTTyUBCAAD6RJrJSEIAAPpEdMtQQgAA+kRt0VhCAAD6RAbRYEIAAPpEnd1oQgAA+kTt4HBCAAD6RIXneEIAAPpE1XOAQgAA+kQydoRCAAD6RN53iEIAAPpEhXqMQgAA+kS5fZBCAAD6RKB/lEIAAPpEa4GYQgAA+kSsg5xCAAD6RA+HoEIAAPpEqIekQgAA+kQ4h6hCAAD6RO+JrEIAAPpEToywQgAA+kTSi7RCAAD6RDmMuEIAAPpElY+8QgAA+kT4j8BCAAD6RFeQxEIAAPpEaZLIQgAA+kSrlcxCAAD6RFaf0EIAAPpEJKLUQgAA+kQ1pNhCAAD6RG6l3EIAAPpEE6XgQgAA+kR8p+RCAAD6RHuo6EIAAPpEYK3sQgAA+kQasPBCAAD6RLGw9EIAAPpEvrH4QgAA+kThs/xCAAD6RNBZAEMAAPpEqFkCQwAA+kRsWgRDAAD6RCNcBkMAAPpERl4IQwAA+kQNYApDAAD6RFRgDEMAAPpE1mAOQwAA+kQ=", 
+    "response": "2zGwTgAAAAAA6Lc9vhm5QYSABkAAAAAADGSDQAAAAAB2nMNAAAAAAOHkAUEAAAAASfUhQdhSy0H0DUJB2FLLQS0zYkHYUstBPiSBQdhSy0HBMJFB2FLLQVA4oUHYUstB9FSxQdhSy0HkV8FB2FLLQXZW0UHYUstBr1fhQdhSy0FmW/FB2FLLQd65AELYUstBD8AIQthSy0GSvxBC2FLLQfvCGELYUstBRcggQthSy0GnxyhC2FLLQQfJMELYUstBaso4QthSy0HTyUBC2FLLQZrJSELYUstBdMtQQthSy0Ft0VhC2FLLQQbRYELYUstBnd1oQthSy0Ht4HBC2FLLQYXneELYUstB1XOAQthSy0EydoRC2FLLQd53iELYUstBhXqMQthSy0G5fZBC2FLLQaB/lELYUstBa4GYQthSy0Gsg5xC2FLLQQ+HoELYUstBqIekQthSy0E4h6hC2FLLQe+JrELYUstBToywQthSy0HSi7RC2FLLQTmMuELYUstBlY+8QthSy0H4j8BC2FLLQVeQxELYUstBaZLIQthSy0GrlcxC2FLLQVaf0ELYUstBJKLUQthSy0E1pNhC2FLLQW6l3ELYUstBE6XgQthSy0F8p+RC2FLLQXuo6ELYUstBYK3sQthSy0EasPBC2FLLQbGw9ELYUstBvrH4QthSy0Hhs/xC2FLLQdBZAEPYUstBqFkCQ9hSy0FsWgRD2FLLQSNcBkPYUstBRl4IQ9hSy0ENYApD2FLLQVRgDEPYUstB1mAOQ9hSy0E=", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 78.4
+}
