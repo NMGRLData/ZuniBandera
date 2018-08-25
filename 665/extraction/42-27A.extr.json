@@ -1,0 +1,33 @@
+{
+    "beam_diameter": "1.25",
+    "cleanup_duration": 30.0,
+    "commit": "768059caa5908618336ab4e75f715559f2ccf688",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 0.25,
+    "grain_polygon_blob": [
+        "b'XwG3TuFarUEFABMABQAUAAUAFQAFABYABAAXAAQAGAAEABkABAAaAAQAGwAEABwABQAdAAUAHgAFAB8ABQAgAAYAIQAGACIABwAjAAcAJAAIACUACAAmAAkAJwAKACgACwApAAwAKgANACsADgArAA8ALAAQACwAEQAtABIALQATAC4AFAAuABUALgAWAC4AFwAvABgALwAZAC8AGgAvABsALwAbAC4AGwAtABwALAAdACwAHgAsAB8ALAAgACwAIQAsACIALAAjACwAIwArACQAKgAkACkAJAAoACMAKAAiACgAIQAnACEAJgAhACUAIQAkACAAJAAfACQAHgAkAB4AJQAeACYAHQAnABwAJwAbACcAGgAnABkAJwAYACcAFwAnABYAJwAVACcAFAAmABMAJgASACYAEQAmABAAJgAPACUADwAkAA4AIwAOACIADgAhAA4AIAAOAB8ADQAeAAwAHgALAB0ACwAcAAsAGwALABoACwAZAAsAGAALABcACwAWAAsAFQAKABUACQAVAAgAFQAHABUABgAVAAUAFAA='"
+    ],
+    "load_holder": "221-hole",
+    "load_name": "C0003",
+    "measured_response": "Tm8gUmVzcG9uc2U=",
+    "pattern": "dragonflypeakpattern_br1-221-hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "135",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Tm8gUmVzcG9uc2U=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "221-hole",
+    "videos": [],
+    "weight": 0.0
+}
